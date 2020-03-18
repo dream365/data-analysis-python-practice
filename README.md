@@ -1,7 +1,7 @@
 ## Data Analysis With Python Practice
 =====
 
-###DA1 (Temperature analysis with public csv data)
+### DA1 (Temperature analysis with public csv data)
 
 - highest temperature print
 ![max_temp](./img/max_temp.png)
@@ -9,7 +9,7 @@
 - biggest high and low temperature print
 ![biggest_high_low](./img/biggest_high_row.png)
 
-###DA2 (Data Visualization with matplotlib)
+### DA2 (Data Visualization with matplotlib)
 
 - high and low temperature liner chart
 ![high_low](./img/high_low_liner_chart.png)
