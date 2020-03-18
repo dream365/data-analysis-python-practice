@@ -1,5 +1,5 @@
 ## Data Analysis With Python Practice
-=====
+------
 
 ### DA1 (Temperature analysis with public csv data)
 
