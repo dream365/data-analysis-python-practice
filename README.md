@@ -19,3 +19,8 @@
 
 - average temperature box plot graph in august
 ![august_box_plot](./img/august_average_box_plot.png)
+
+### DA3 (Korea Population analysis with public csv data)
+
+- korea population liner chart
+![korea_population_liner](./img/korea_population.png)
