@@ -3,7 +3,7 @@ import csv
 max_temp = -999
 max_date = ''
 
-f = open('../temp_data/seoul.csv', encoding='cp949')
+f = open('../data/seoul.csv', encoding='cp949')
 data = csv.reader(f)
 header = next(data)
 

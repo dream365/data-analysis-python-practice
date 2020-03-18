@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import csv
 
-f = open('../temp_data/seoul.csv', encoding='cp949')
+f = open('../data/seoul.csv', encoding='cp949')
 data = csv.reader(f)
 next(data)
 high = []

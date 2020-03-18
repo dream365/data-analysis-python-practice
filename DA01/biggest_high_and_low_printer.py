@@ -5,7 +5,7 @@ high_low_dict = {}
 biggest_high_and_low_month = 0
 biggest_high_and_low = 0
 
-f = open('../temp_data/seoul.csv', encoding='cp949')
+f = open('../data/seoul.csv', encoding='cp949')
 data = csv.reader(f)
 header = next(data)
 
