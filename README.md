@@ -24,3 +24,8 @@
 
 - korea population liner chart
 ![korea_population_liner](./img/korea_population.png)
+
+- district population by input value
+![popultion_input](./img/population_input.png)
+![population_bar_input](./img/population_bar_by_input.png)
+
