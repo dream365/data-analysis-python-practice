@@ -29,6 +29,6 @@
 ![popultion_input](./img/population_input.png)
 ![population_bar_input](./img/population_bar_by_input.png)
 
-- population ratio by gender
+- population ratio by gender    
 ![population_gender_input](./img/gender_population_input.png)
 ![population_gender_jar](./img/gender_population_jar.png)
