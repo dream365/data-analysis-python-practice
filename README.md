@@ -35,3 +35,7 @@
 
 - Jeju population ratio pie chart by gender
 ![jeju_gender_ratio](./img/jeju_gender_ratio_pie.PNG)
+
+- Jeju population ratio scatter chart by gender    
+![jeju_gender_ratio](./img/jeju_gender_ratio_scatter.PNG)
+
